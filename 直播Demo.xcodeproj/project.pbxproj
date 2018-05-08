@@ -131,6 +131,8 @@
 				BAFCAA4C209417D2008477CD /* Podfile */,
 				BA885FBC209C6EB60019BCB3 /* dyla_movie.mp4 */,
 				BA0341EE20A1E07B009F5527 /* PrefixHeader.pch */,
+				BAFCAA2F2094168A008477CD /* main.m */,
+				BAFCAA302094168A008477CD /* Info.plist */,
 				BAFCA9FA20941440008477CD /* 直播Demo */,
 				BAFCA9F920941440008477CD /* Products */,
 				FFE1A6A813A5FBC59E0E6C8F /* Pods */,
@@ -374,8 +376,6 @@
 				BAFCAA2A2094168A008477CD /* Assets.xcassets */,
 				BAFCAA2B2094168A008477CD /* LaunchScreen.storyboard */,
 				BAFCAA2D2094168A008477CD /* Main.storyboard */,
-				BAFCAA2F2094168A008477CD /* main.m */,
-				BAFCAA302094168A008477CD /* Info.plist */,
 			);
 			path = Supporting;
 			sourceTree = "<group>";
@@ -674,7 +674,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7LZG77YKLJ;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/PrefixHeader.pch";
-				INFOPLIST_FILE = "/Users/simpleyu/Desktop/直播Demo/直播Demo/Supporting/Info.plist";
+				INFOPLIST_FILE = /Users/simpleyu/Documents/MyGitHub/simpleLG/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.simpleyu.--Demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -690,7 +690,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7LZG77YKLJ;
 				GCC_PREFIX_HEADER = "$(SRCROOT)/PrefixHeader.pch";
-				INFOPLIST_FILE = "/Users/simpleyu/Desktop/直播Demo/直播Demo/Supporting/Info.plist";
+				INFOPLIST_FILE = /Users/simpleyu/Documents/MyGitHub/simpleLG/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.simpleyu.--Demo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
